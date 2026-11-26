@@ -1,11 +1,11 @@
-# dxf-geometry
+# cad-scale-dxf
 
 Zero-dependency Python library for 2D CAD and DXF geometry calculations: polyline perimeter, shoelace polygon area, bounding boxes, raster DPI-to-millimeter calibration, 1:N architectural drawing scale conversion, Ramer-Douglas-Peucker polyline simplification, and ASCII DXF `LWPOLYLINE` serialization.
 
 ## Installation
 
 ```bash
-pip install dxf-geometry
+pip install cad-scale-dxf
 ```
 
 ## Quick Start

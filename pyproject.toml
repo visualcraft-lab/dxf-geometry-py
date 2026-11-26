@@ -3,7 +3,7 @@ requires = ["hatchling>=1.24.0"]
 build-backend = "hatchling.build"
 
 [project]
-name = "dxf-geometry"
+name = "cad-scale-dxf"
 version = "0.1.0"
 description = "Zero-dependency Python library for 2D CAD and DXF geometry: polyline length, shoelace polygon area, DPI-to-mm scale calibration, Ramer-Douglas-Peucker simplification, and ASCII DXF export."
 readme = "README.md"
